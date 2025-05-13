@@ -45,7 +45,7 @@ print(x)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/ab9a6b2c-e3db-4c69-b8e8-a03ad495abc2)
+![image](https://github.com/user-attachments/assets/8949415a-90d9-47bd-8bc7-982561e4eb37)
 
 
 
